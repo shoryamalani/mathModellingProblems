@@ -1,0 +1,2 @@
+bing_map_api_key = ["AkF9esX5bODfB94vvDJQLpJLYIWXg2wZV5E74Ga4LeBzeqHazYb3xH7P_zwVA6Bh","Ajit5cLD4swyiGlJJPEGRqmhEryXTP4IE6SfzVLdleKDeiJjjbCipGMl4pqivndW","AnbnmNA6BdcmF0QVmLqLri1uJYXa0BZNKe56-4zw2l1gDHFetxPmDj31J79EvFon"]
+position_stack = "f3ab5fd4c3ab6e3771f4cc280ba5eac8"
